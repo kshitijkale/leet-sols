@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kshitijkale/leet-sols/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kshitijkale/leet-sols/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/kshitijkale/leet-sols/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0792-binary-search](https://github.com/kshitijkale/leet-sols/tree/master/0792-binary-search) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kshitijkale/leet-sols/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kshitijkale/leet-sols/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/kshitijkale/leet-sols/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/kshitijkale/leet-sols/tree/master/0151-reverse-words-in-a-string) |
 | [1894-merge-strings-alternately](https://github.com/kshitijkale/leet-sols/tree/master/1894-merge-strings-alternately) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Math
 |  |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 ## Backtracking
 |  |
 | ------- |
@@ -64,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kshitijkale/leet-sols/tree/master/0036-valid-sudoku) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
