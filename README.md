@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/kshitijkale/leet-sols/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kshitijkale/leet-sols/tree/master/0015-3sum) |
+| [1894-merge-strings-alternately](https://github.com/kshitijkale/leet-sols/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0022-generate-parentheses) |
+| [1894-merge-strings-alternately](https://github.com/kshitijkale/leet-sols/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
