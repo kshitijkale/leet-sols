@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/kshitijkale/leet-sols/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/kshitijkale/leet-sols/tree/master/0792-binary-search) |
 ## Binary Search
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
