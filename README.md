@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/kshitijkale/leet-sols/tree/master/0792-binary-search) |
+| [0883-car-fleet](https://github.com/kshitijkale/leet-sols/tree/master/0883-car-fleet) |
 ## Binary Search
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kshitijkale/leet-sols/tree/master/0015-3sum) |
+| [0883-car-fleet](https://github.com/kshitijkale/leet-sols/tree/master/0883-car-fleet) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/kshitijkale/leet-sols/tree/master/0883-car-fleet) |
 ## Math
 |  |
 | ------- |
@@ -75,4 +78,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/kshitijkale/leet-sols/tree/master/0883-car-fleet) |
 <!---LeetCode Topics End-->
