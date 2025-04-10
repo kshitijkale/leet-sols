@@ -10,14 +10,22 @@ class Solution:
                     mincost[n] = min{mincost[n-1],mincost[n-2]} + 1
 
         '''
+
+        # n = len(cost)
+        # mincost = [0] * (n+1)
+        # mincost[0] = 0
+        # mincost[1] = 0
+        # for i in range(2,n+1):
+        #     mincost[i] = min(mincost[i-1]+cost[i-1],mincost[i-2]+cost[i-2])
+
+        # return mincost[n]
+
         n = len(cost)
-        mincost = [0] * (n+1)
-        mincost[0] = 0
-        mincost[1] = 0
+        cost.append(0)
+        mincost = [0] * (n+1)   # 0 . .. .. n
+        mincost[0] = cost[0]
+        mincost[1] = cost[1]
         for i in range(2,n+1):
-            mincost[i] = min(mincost[i-1]+cost[i-1],mincost[i-2]+cost[i-2])
-
+            mincost[i] = min(mincost[i-1],mincost[i-2]) + cost[i]
         return mincost[n]
-
-
 
