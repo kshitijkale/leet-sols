@@ -63,12 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/kshitijkale/leet-sols/tree/master/0883-car-fleet) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
