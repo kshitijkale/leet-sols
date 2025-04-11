@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kshitijkale/leet-sols/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitijkale/leet-sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0322-coin-change](https://github.com/kshitijkale/leet-sols/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/kshitijkale/leet-sols/tree/master/0792-binary-search) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kshitijkale/leet-sols/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/kshitijkale/leet-sols/tree/master/0322-coin-change) |
 | [0747-min-cost-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0070-climbing-stairs) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kshitijkale/leet-sols/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
