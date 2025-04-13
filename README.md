@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/kshitijkale/leet-sols/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/kshitijkale/leet-sols/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kshitijkale/leet-sols/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/kshitijkale/leet-sols/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/kshitijkale/leet-sols/tree/master/0322-coin-change) |
 | [0739-daily-temperatures](https://github.com/kshitijkale/leet-sols/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/kshitijkale/leet-sols/tree/master/0747-min-cost-climbing-stairs) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kshitijkale/leet-sols/tree/master/0322-coin-change) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/kshitijkale/leet-sols/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
