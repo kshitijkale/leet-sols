@@ -1,7 +1,5 @@
-__import__("atexit").register(lambda: open("display_runtime.txt", "w").write("0"))
 class Solution:
-    def maxProfit(self, prices: List[int]) -> int:
-        
+    def maxProfit(self, prices: List[int]) -> int:        
         buy = prices[0]
         max_ = 0
         for i in range(1,len(prices)):
