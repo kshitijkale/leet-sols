@@ -3,7 +3,7 @@ class Solution:
         
         buy = prices[0]
         max_ = 0
-        for i in range(len(prices)):
+        for i in range(1,len(prices)):
             if(prices[i]<buy):
                 buy = prices[i]
             else:
