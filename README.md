@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/kshitijkale/leet-sols/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/kshitijkale/leet-sols/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/kshitijkale/leet-sols/tree/master/0907-koko-eating-bananas) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/kshitijkale/leet-sols/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
 | ------- |
