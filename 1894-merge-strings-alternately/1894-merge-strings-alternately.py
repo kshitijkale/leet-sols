@@ -8,16 +8,10 @@ class Solution:
 
         while count1!= n1 and count2!= n2:
             count = count1 + count2
-            if(count%2==0):
-                word += word1[count1]
-                count1+=1
-            else:
-                word += word2[count2]
-                count2+=1
-        while count1!=n1:
             word += word1[count1]
             count1+=1
-        while count2!=n2:
             word += word2[count2]
             count2+=1
+        word = word +''.join(list(word1[count1:]))
+        word = word +''.join(list(word2[count2:]))
         return word
