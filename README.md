@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kshitijkale/leet-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/kshitijkale/leet-sols/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/kshitijkale/leet-sols/tree/master/0125-valid-palindrome) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kshitijkale/leet-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/kshitijkale/leet-sols/tree/master/0036-valid-sudoku) |
 ## Matrix
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/kshitijkale/leet-sols/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kshitijkale/leet-sols/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
